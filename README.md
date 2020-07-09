@@ -5,4 +5,4 @@
 
 [Hướng dẫn sử dụng](https://nbviewer.jupyter.org/github/SangVn/VnCFD_2D_v3/blob/master/Tutorial.ipynb) 
 
-<img src="img/plate.png">
+<img src="plate.png">
